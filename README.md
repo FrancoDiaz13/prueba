@@ -1,1 +1,1 @@
-hola commit 1
+Este es un modelo base de lo que seria el front-end en base a esto se deberia hacer todo principalmente el estilo(falta completar, unir y probar en otros sistemas)
